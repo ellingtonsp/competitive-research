@@ -10,7 +10,7 @@ The current competitive research process for our PM team is broken in three ways
 # SOLUTION OBJECTIVE
 This app must bridge the "Synthesis Gap." It is not a data-entry tool; it is a **Strategy Engine**. It must solve for "Insight Density"—ensuring every word generated is a tactical weapon for Sales, Marketing, or Product Engineering.
 
-# IMPLEMENTATION PHILOSOPHY
+# SUCCESS CRITERIA
 This app is successful if it reduces a PM's research-to-brief workflow from 4 hours to 15 minutes. 
 The implementation must solve for "Insight Depth." 
 When the AI Backend is prompted, use a "Chain of Thought" reasoning process:
