@@ -33,7 +33,7 @@ When the AI Backend is prompted, use a "Chain of Thought" reasoning process:
      b. **Competitive Battlecard**: A 2x2 table/grid covering "How to Win," "Where they Struggle," "Landmines to Drop," and "Quick Pitch."
      c. **Research Brief**: A long-form PRD-style document summarizing the competitive landscape.
      d. **Market Intel**: Synthesis of recent market developments via news, PR releases and socials for competitors
-     e. **Strategic Actions**: The createion of 
+     e. **Strategic Actions**: The ability to push recommended actions (features, competitive positioning) in direct response to the intel generated earlier in the flow. 
 5. **Export & Drive Integration**:
    - Use the `gapi` or `google-cloud/drive` library to allow the user to export generated results as a Markdown or PDF file directly to a folder named "PM Co-Pilot" in their Google Drive.
    - Linear API for Action Creation
